@@ -1,0 +1,12 @@
+{
+    "info": {
+        "displayName": "Example Japanese Pack",
+        "description": "テスト用日本語言語パック",
+        "author": "Hyz-sui",
+        "languageName": "ja-JP"
+    },
+    "translations": {
+        // comment
+        "TOHOptions": "はひふへも", // trailing comma
+    }
+}
